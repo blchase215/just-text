@@ -11,6 +11,10 @@
     "install": "cd client && npm install",
     "client": "cd client && npm start"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blchase215/just-text"
+  },
   "keywords": ["text editor, PWA, offline functionality"],
   "author": "Brian Chase",
   "license": "ISC",
