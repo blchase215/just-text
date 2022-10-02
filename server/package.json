@@ -1,14 +1,13 @@
 {
-    "name": "JATE",
+    "name": "jate",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": ["text editor, PWA, offline functionality"],
+    "author": "Brian Chase",
     "dependencies": {
         "express": "^4.17.1"
     },
